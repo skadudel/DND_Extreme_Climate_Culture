@@ -17,8 +17,12 @@ body{
 .header{
     display: flex;
     justify-content: space-around;
-    align-items: baseline;
+    align-items: flex-start;
     padding-bottom: 5px;
+}
+
+a{
+    margin-top: 20px;
 }
 
 .title{
