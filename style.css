@@ -41,6 +41,7 @@ a{
     flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
+    padding-left: 40px;
 }
 
 .line{
@@ -56,6 +57,7 @@ a{
     flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
+    padding-right: 40px;
 }
 
 .image{
